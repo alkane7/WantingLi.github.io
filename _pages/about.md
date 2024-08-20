@@ -26,7 +26,7 @@ Something about me
     
 - **Physically**
 
-    I am very passionate about swimming and skilled in breaststroke and freestyle. Swimming is very comfortable in the   humid and hot weather of Shenzhen.
+    I am very passionate about **swimming** and skilled in **breaststroke** and **freestyle**. Swimming is very comfortable in the humid and hot weather of Shenzhen.
 
 
   
