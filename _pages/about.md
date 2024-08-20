@@ -9,13 +9,13 @@ redirect_from:
 Biography
 ======
 
-Hi! I'm Wanting Li. I'm a second-year undergraduate in Computer Science at the Southern University of Science and Technology ([SUSTech](https://www.sustech.edu.cn/en/)). Recently, I'm conducting research on experienmental study on vector database in RAG in [SUSTech DBGroup](https://dbgroup.sustech.edu.cn/) advised by [Prof.Bo Tang](https://acm.sustech.edu.cn/btang/).
+Hi! I'm Wanting Li. I'm a second-year undergraduate in Computer Science at the [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/). Recently, I'm conducting research on experienmental study on vector database in RAG in [SUSTech DBGroup](https://dbgroup.sustech.edu.cn/) advised by [Prof.Bo Tang](https://acm.sustech.edu.cn/btang/).
 
 I plan to apply for PhD program in 26Fall. I'm looking for research internship in Spring 2025 or Summer 2025. 
 
 My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
-[Email](lisusan1104@gmail.com) / [Github](https://github.com/alkane7) / [Wechat](../images/wechat.png)
+[Email](lisusan1104@gmail.com) / [Github](https://github.com/alkane7) / [Wechat](../images/wechat.png) 
 
 A data-driven personal website
 ======
