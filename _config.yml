@@ -12,7 +12,7 @@ title                    : "Wanting Li"
 title_separator          : "-"
 name                     : &name "Wanting Li"
 description              : &description "a second-year student in SUSTech"
-url                      : https://alkane7.github.io/WantingLi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://alkane7.github.io/WantingLi.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alkane7/WantingLi.github.io"
 
@@ -21,7 +21,7 @@ repository               : "alkane7/WantingLi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "profile.png"
   name             : "Wanting Li"
   pronouns         : # example: "she/her"  
   bio              : " "
