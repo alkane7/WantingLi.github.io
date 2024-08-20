@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Biography
+======
 
 Hi! I'm Wanting Li. I'm a second-year undergraduate in Computer Science at the Southern University of Science and Technology ([SUSTech](https://www.sustech.edu.cn/en/)). Recently, I'm conducting research on experienmental study on vector database in RAG in SUSTech DBGroup advised by [Prof.Bo Tang](https://acm.sustech.edu.cn/btang/).
 
