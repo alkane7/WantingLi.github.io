@@ -21,9 +21,14 @@ Something about me
 
     GPA:3.83/4.0
 
+- **Personality**
+
+    
 - **Physically**
 
     I am very passionate about swimming and skilled in breaststroke and freestyle. Swimming is very comfortable in the   humid and hot weather of Shenzhen.
+
+
   
 
 Awards
