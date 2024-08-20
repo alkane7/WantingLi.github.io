@@ -17,12 +17,10 @@ I am highly enthusiastic about delving into various research domains within the 
 
 Something about me
 ======
-- Academically
-  
+- Academically 
     GPA:3.83/4.0
   
 - Physically
-
     I am very passionate about swimming and skilled in breaststroke and freestyle. Swimming is very comfortable in the   humid and hot weather of Shenzhen.
   
 
