@@ -15,8 +15,6 @@ I plan to apply for PhD program in 26Fall. I'm looking for research internship i
 
 My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
-#You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
 [Email](lisusan1104@gmail.com) / [Github](https://github.com/alkane7) / [Wechat](../images/wechat.jpg)
 
 A data-driven personal website
