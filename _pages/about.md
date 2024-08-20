@@ -17,7 +17,7 @@ I am highly enthusiastic about delving into various research domains within the 
 
 Something about me
 ======
-- Academically
+- **Academically**
 
     GPA:3.83/4.0
 
