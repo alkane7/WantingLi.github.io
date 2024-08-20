@@ -15,7 +15,7 @@ I plan to apply for PhD program in 26Fall. I'm looking for research internship i
 
 My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
-[Email](lisusan1104@gmail.com) / [Github](https://github.com/alkane7) / [Wechat](../images/wechat.jpg)
+[Email](lisusan1104@gmail.com) / [Github](https://github.com/alkane7) / [Wechat](../images/wechat.png)
 
 A data-driven personal website
 ======
