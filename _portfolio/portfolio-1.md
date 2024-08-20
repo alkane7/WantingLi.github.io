@@ -1,6 +1,6 @@
 ---
 title: "Senior Student Group"
-excerpt: "Assist new students in adapting to campus life <br/><img src='student.png'>"
+excerpt: "Assist new students in adapting to campus life <br/><img src='/images/student.png'>"
 collection: portfolio
 ---
 
