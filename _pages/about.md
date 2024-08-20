@@ -13,7 +13,10 @@ Hi! I'm Wanting Li. I'm a **second-year** undergraduate in Computer Science at t
 
 I plan to apply for **PhD** program in **26Fall**. I'm looking for **research internship** in **Spring 2025 or Summer 2025**. 
 
-My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I am highly enthusiastic about delving into various research domains within the field of data science and machine learning to find my future research interest. 
+
+Something about me
+======
 
 
 Awards
