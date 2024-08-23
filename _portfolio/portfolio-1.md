@@ -1,5 +1,5 @@
 ---
-title: "Senior Student Group"
+title: "Peer Mentors"
 excerpt: "Assist new students in adapting to campus life <br/><img src='../images/student.png'>"
 collection: portfolio
 ---
