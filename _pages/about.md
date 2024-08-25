@@ -13,7 +13,7 @@ I'm a **second-year** undergraduate in Computer Science at the [Southern Univers
 
 I plan to apply for a **PhD** program in **Fall 2026**. I'm currently seeking for a **research internship** in **Spring 2025 or Summer 2025**. 
 
-I am highly enthusiastic about exploring various research domains within the fields of data science and machine learning to identify my future research interests. 
+I am highly enthusiastic about exploring various research domains within the fields of data science and deep learing/machine learning to identify my future research interests. 
 
 
 Publications
