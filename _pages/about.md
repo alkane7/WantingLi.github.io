@@ -15,13 +15,20 @@ I plan to apply for a **PhD** program in **Fall 2026**. I'm currently seeking fo
 
 I am highly enthusiastic about exploring various research domains within the fields of data science and deep learning/machine learning to identify my future research interests. 
 
+Publications
+======
+- Working on improving the memory efficiency and accuracy of sparse attention in LLM inference
+
+    We are proposing a new sparse attention algorithm that reduces memory cost by leveraging the tiered memory architecture and preserves accuracy by effective KV cache compression.
+  
+- Working on an experimental study on vector databases in RAG
+
+    I am conducting experiments on Google’s Natural Questions dataset to explore how recall adjustments and answer shortening impact RAG's performance. 
+
 Company internship
 ======
 - Programming Language Development Tools Intern at Digital Infrastructure in Innovation International Digital Economy Academy(2024.1-2024.2)
   
-Publications
-======
-- Working on an experimental study on vector databases in RAG
 
 Awards
 ======
